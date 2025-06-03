@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: [Ivanna Hnatiuk]  
+- Certification: [github]  
 
 ## Instructions
 Please replace the placeholders with your details:
